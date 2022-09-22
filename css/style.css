@@ -1,0 +1,249 @@
+.top{
+    background-color: black;
+  }
+
+  nav ul li{
+    font-family: 'Poppins', sans-serif;
+    padding: 5px 15px;
+}
+
+.navbar-brand{
+    font-family: 'Bebas Neue';
+    font-size: 2rem;
+}
+
+.br1{
+    color: #EB1D36;
+}
+
+@media screen and (max-height: 992px) {
+    .carousel-item {
+        height: 35rem;
+    }
+}
+
+@media screen and (max-height: 992px) {
+    .pic {
+        height: 35rem;
+    }
+}
+
+
+#middle{
+    position: relative;
+}
+
+.cont{
+    display: inline-block;
+
+}
+
+.pop{
+    position: relative;
+    padding: 3% 7%;
+    line-height: 2;
+}
+
+.pclass{
+    width: 70%;
+
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    padding-bottom: 25px;
+    font-weight:normal;
+    font-size: 2rem;
+    font-family:fantasy,cursive;
+}
+
+.con1{
+    font-size: 1.7rem;
+    font-weight: bold;
+    font-family: 'Teko', sans-serif;
+}
+
+button{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sec{
+    padding-bottom: 4% ;
+}
+
+.first {
+    padding-bottom: 4%;
+}
+
+.thi {
+    padding-bottom: 4%;
+}
+
+.four {
+    padding-bottom: 4%;
+}
+
+.about{
+    color: grey;
+}
+
+
+
+#testimonials{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.items1{
+    padding: 7% 15%;
+}
+
+.testi {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.texti{
+    height: 27rem;
+}
+
+
+
+
+
+
+
+
+/* plans */
+.head{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3rem;
+    padding-bottom: 10px;
+}
+
+#plans{
+    margin: 3% 7%;
+}
+
+.spec{
+    font-size: 2rem;
+}
+
+.card-body{
+    text-align: center;
+}
+
+strong{
+    font-size: 1.2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* contact */
+#contact{
+  font-size: 2rem
+  font-weight: bolder;
+  font-family: "Great Vibes", cursive;
+  padding: 3%;
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+
+.fa-solid{
+  font-size: 1rem;
+  color: white;
+  padding: 5px 15px;
+
+}
+.contact-font{
+  font-size: 2.5rem;
+  font-weight: lighter;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer */
+
+#footer{
+text-align: center;
+background-color: black;
+color: white;
+padding: 1.5%;
+}
+
+.fa-brands{
+  font-size: 3rem;
+  color: white;
+padding: 5px 15px;
+color: white;
+}
+
+.fa-solid:hover{
+color: blue;
+transition: .4s;
+}
+
+.fa-brands:hover{
+color: blue;
+transition: .4s;
+}
+.copyright{
+  padding-top: 10px;
+}
